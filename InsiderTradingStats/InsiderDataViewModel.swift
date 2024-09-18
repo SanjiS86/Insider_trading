@@ -11,7 +11,7 @@ class InsiderDataViewModel: ObservableObject {
     @Published var insiderData: [InsiderData] = []
     
     func fetchData(for ticker: String) {
-        let apiKey = "ac56c004479c7cbfc7734b90d6395a3c"
+        let apiKey = ""
         guard let url = URL(string: "https://financialmodelingprep.com/api/v4/insider-roaster-statistic?symbol=\(ticker)&apikey=\(apiKey)") else { return }
         
         URLSession.shared.dataTask(with: url) { (data, response, error) in

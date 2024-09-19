@@ -71,10 +71,18 @@ struct ContentView: View {
                         Text("Please select a period to view the graph.")
                             .padding()
                     }
+                    
                 } else {
                     Text("No data available. Please enter a valid ticker.")
                         .padding()
                 }
+                NavigationLink(destination: SocialSentimentView()) {
+                                    Text("Go to Twitter Sentiment")
+                                        .font(.headline)
+                                        .padding()
+                                        .foregroundColor(.blue)
+                                }
+                                .padding(.bottom)
             }
             .onAppear {
                 viewModel.fetchData(for: ticker)  

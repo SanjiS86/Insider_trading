@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D6A441D32C9C09040016B3BB /* SocialSentimentData.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6A441D22C9C09040016B3BB /* SocialSentimentData.swift */; };
+		D6A441D52C9C092E0016B3BB /* SocialSentimentViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6A441D42C9C092E0016B3BB /* SocialSentimentViewModel.swift */; };
+		D6A441D72C9C094E0016B3BB /* SocialSentimentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6A441D62C9C094E0016B3BB /* SocialSentimentView.swift */; };
+		D6A441D92C9C097E0016B3BB /* SentimentChartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6A441D82C9C097E0016B3BB /* SentimentChartView.swift */; };
 		D6B5DA4E2C9AF839006D7958 /* InsiderData.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6B5DA4D2C9AF839006D7958 /* InsiderData.swift */; };
 		D6B5DA502C9AF85A006D7958 /* InsiderDataViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6B5DA4F2C9AF85A006D7958 /* InsiderDataViewModel.swift */; };
 		D6B5DA522C9AF8C3006D7958 /* ChartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6B5DA512C9AF8C3006D7958 /* ChartView.swift */; };
@@ -17,6 +21,10 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D6A441D22C9C09040016B3BB /* SocialSentimentData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SocialSentimentData.swift; sourceTree = "<group>"; };
+		D6A441D42C9C092E0016B3BB /* SocialSentimentViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SocialSentimentViewModel.swift; sourceTree = "<group>"; };
+		D6A441D62C9C094E0016B3BB /* SocialSentimentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SocialSentimentView.swift; sourceTree = "<group>"; };
+		D6A441D82C9C097E0016B3BB /* SentimentChartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SentimentChartView.swift; sourceTree = "<group>"; };
 		D6B5DA4D2C9AF839006D7958 /* InsiderData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsiderData.swift; sourceTree = "<group>"; };
 		D6B5DA4F2C9AF85A006D7958 /* InsiderDataViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsiderDataViewModel.swift; sourceTree = "<group>"; };
 		D6B5DA512C9AF8C3006D7958 /* ChartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChartView.swift; sourceTree = "<group>"; };
@@ -61,6 +69,10 @@
 				D6B5DA4D2C9AF839006D7958 /* InsiderData.swift */,
 				D6B5DA4F2C9AF85A006D7958 /* InsiderDataViewModel.swift */,
 				D6D4DBEC2C9AF66C003B07A7 /* ContentView.swift */,
+				D6A441D22C9C09040016B3BB /* SocialSentimentData.swift */,
+				D6A441D42C9C092E0016B3BB /* SocialSentimentViewModel.swift */,
+				D6A441D62C9C094E0016B3BB /* SocialSentimentView.swift */,
+				D6A441D82C9C097E0016B3BB /* SentimentChartView.swift */,
 				D6B5DA512C9AF8C3006D7958 /* ChartView.swift */,
 				D6D4DBEE2C9AF670003B07A7 /* Assets.xcassets */,
 				D6D4DBF02C9AF670003B07A7 /* Preview Content */,
@@ -146,11 +158,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D6A441D32C9C09040016B3BB /* SocialSentimentData.swift in Sources */,
+				D6A441D72C9C094E0016B3BB /* SocialSentimentView.swift in Sources */,
 				D6D4DBED2C9AF66C003B07A7 /* ContentView.swift in Sources */,
 				D6B5DA502C9AF85A006D7958 /* InsiderDataViewModel.swift in Sources */,
 				D6D4DBEB2C9AF66C003B07A7 /* InsiderTradingStatsApp.swift in Sources */,
+				D6A441D52C9C092E0016B3BB /* SocialSentimentViewModel.swift in Sources */,
 				D6B5DA522C9AF8C3006D7958 /* ChartView.swift in Sources */,
 				D6B5DA4E2C9AF839006D7958 /* InsiderData.swift in Sources */,
+				D6A441D92C9C097E0016B3BB /* SentimentChartView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

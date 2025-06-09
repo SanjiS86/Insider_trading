@@ -27,3 +27,14 @@ By analyzing the Insider trading activity, you can:
 Check out other useful [**apps for stock investors and traders**](https://diversset.com/stockMarketiOSApps)
 
 Follow me on X for [**stock market related educational content**](https://x.com/Sanji_vals)and useful apps. 
+
+## Support
+If you find this extension useful, you can support me by sending a tip
+<h3 align="center">💖 Support My Work</h3>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/sanzhikobzf">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" width="250" height="40" style="font-size: 12px;">
+  </a>
+</p>
+

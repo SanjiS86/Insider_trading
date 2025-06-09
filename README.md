@@ -29,7 +29,7 @@ Check out other useful [**apps for stock investors and traders**](https://divers
 Follow me on X for [**stock market related educational content**](https://x.com/Sanji_vals)and useful apps. 
 
 ## Support
-If you find this extension useful, you can support me by sending a tip
+If you find this simple iOS app useful, you can support me by sending a tip
 <h3 align="center">💖 Support My Work</h3>
 
 <p align="center">
